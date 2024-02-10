@@ -1,0 +1,13 @@
+*.key
+*.secret
+db_config.py
+settings_local.py
+.env  # Or your specific environment variable file
+
+# Logs and cache
+*.log
+__pycache__/
+
+# Virtual environment or package manager folders
+venv/
+node_modules/
